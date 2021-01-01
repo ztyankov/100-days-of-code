@@ -18,7 +18,7 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
     - Learn and experiment with server side rendering frameworks and technologies.
     - Work on a personal project idea about building habits.
 
-**Thoughts:** This sounds like an interesting idea for building a habit. I don't know how I feel about tweeting about this challenge every day though.
+**Thoughts:** I'm trying to get into the habit of learning and experimenting with technologies, tools and frameworks that I don't get to use in my day-to-day work. This sounds like a good way of achieving that goal. This is sprint 0. Let's see how things go. I don't know how I feel about tweeting about this challenge every day though.
 
 **Link(s) to work**
 
