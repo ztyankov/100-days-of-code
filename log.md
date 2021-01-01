@@ -4,9 +4,36 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 #### ⚡ I will code for at least an hour every day for the next 100 days
 
+## Day 1: January 1, 2021
+
+**Time Spent:** 1h30m
+
+**Today's Progress**
+
+- Created a simple Todo App with Svelte based on a tutorial from coding CodingTheSmartWay.
+- Made the following enhancements:
+    - Moved the todo data in a JSON file that loads when the component is mounted
+    - Updated some of the styling for the cursor pointer and the way the input and the todo labels were handled
+    - Switched out some uses of forEach() with map()
+    - Cleaned up the code
+    - Enable Typescript and add basic types
+
+**Thoughts:** The code for the Todo App was fairly simple and easy to understand.
+
+**Link(s) to work**
+
+- [Svelte Todo App Commit](https://github.com/ztyankov/svelte-todo-app/commit/72d65ff20a3d7b559238b8e3b0b25d564998084b)
+
+**Resources**
+
+- [9 Projects to Build](https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h)
+- [Building a Svelte Todo App](https://medium.com/codingthesmartway-com-blog/building-a-svelte-3-todo-app-from-start-to-deployment-1737f72c23a6)
+- [Svelte Docs](https://svelte.dev/docs)
+- [Svelte and Typescript](https://svelte.dev/blog/svelte-and-typescript)
+
 ## Day 0: January 1, 2021
 
-**Time Spent:** 1h
+**Time Spent:** 30m
 
 **Today's Progress**
 
