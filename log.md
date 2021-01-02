@@ -19,7 +19,7 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 - Started working on a random meal selector app.
 - Created the basic data structure for the meals, types, a display card.
 
-**Thoughts:**
+**Thoughts:** Running Svelte and Express together was pretty easy. I was able to setup the whole thing and get a basic route running in under 30 minutes. I had some trouble exporting/importing types with Typescript in Svelte. In the end I was able to figure it out and it made sense the way it works. I used what I learned yesterday in setting up the new app.
 
 **Link(s) to work**
 
