@@ -4,6 +4,27 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 #### ⚡ I will code for at least an hour every day for the next 100 days
 
+## Day 3: Sunday, 01/03/2021
+
+**Time Spent:** 1h25m
+
+**Today's Progress**
+
+- I learned about Svelte Material UI and integrated it with my random selector project
+- Started using Card, TextField and some other Material components to make the app look better
+
+**Thoughts:** Setting up Material UI for Svelte with my setup was a bit of a challenge. I had to install `rollup-plugin-postcss` and `node-sass` and make updates to the rollup.config.js. Also, I need to create a basic theme `src/theme/smui-theme.scss`. I found out that I can't use CSS classes on Components in Svelte so I had to resort to other tricks to get a meal card appear selected on click.
+
+**Link(s) to work**
+
+- [Svelte Random Selector Commit](https://github.com/ztyankov/svelte-random-meal-selector/commit/57839bd51fecca4d7133eddd3245ecf7817ac5f7)
+
+**Resources**
+
+- [Svelte Material UI](https://github.com/hperrin/svelte-material-ui)
+- [Svelte Material UI Doc](https://sveltematerialui.com/)
+- [Svelte Material UI - Card Example](https://github.com/hperrin/svelte-material-ui/blob/master/site/src/routes/demo/card.svelte)
+
 ## Day 2: January 2, 2021
 
 **Time Spent:** 1h30m
