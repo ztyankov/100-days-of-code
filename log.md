@@ -4,6 +4,26 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 #### ⚡ I will code for at least an hour every day for the next 100 days
 
+## Day 4: Monday, 01/04/2021
+
+**Time Spent:** 1h
+
+**Today's Progress**
+
+- Refactor the search functionality into a separate component.
+- Cleanup some of the old code.
+- Add Chips (Tags) for meal types.
+- Pick a new name: Z's Next Meal Planner
+
+**Thoughts:** Doing 1 hour of coding after a long work day is not as easy as it seemed. I dabbled with some forms today, but decided against using them for now. I'll need to come up with a good way of filtering data at multiple levels.
+
+**Link(s) to work**
+
+- [Svelte Meal Planner Commit](https://github.com/ztyankov/svelte-random-meal-selector/commit/5670b5a4a4dc9ed420fa9cba5fe417e5e87f6d18)
+
+**Resources**
+
+- [Introduction to Svelte Tutorial IBM](https://developer.ibm.com/technologies/front-end-development/tutorials/svelte-introduction/)
 ## Day 3: Sunday, 01/03/2021
 
 **Time Spent:** 1h25m
