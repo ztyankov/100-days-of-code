@@ -4,6 +4,24 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 #### ⚡ I will code for at least an hour every day for the next 100 days
 
+## Day 5: Tuesday, 01/05/2021
+
+**Time Spent:** 1h45m
+
+**Today's Progress**
+
+- I explored reactive statements/variables and implemented a solution to my dynamic filtering
+- More import/export issues came up with different prop types, so I had to extract each one into its own file
+- I also updated my sample data points to provide more diversity
+
+**Thoughts:** It's getting harder to do an extra hour of coding after the work day.
+
+**Link(s) to work & Resources**
+
+- [Svelte Meal Planner Commit](https://github.com/ztyankov/svelte-random-meal-selector/commit/742a69ffa9effc45ee6c89588b5f741508825bed)
+- [Svelte Reactivity](https://reactgo.com/svelte-reactivity/)
+- [MDN Svelte Variables & Props](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_variables_props)
+
 ## Day 4: Monday, 01/04/2021
 
 **Time Spent:** 1h
