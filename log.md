@@ -4,6 +4,26 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 #### ⚡ I will code for at least an hour every day for the next 100 days
 
+## Day 6: Thursday, 01/07/2021
+
+**Time Spent:** 1h15m
+
+**Today's Progress**
+
+- Explore Material UI component customization through built-in mdc variables and inline styles
+- Change design and colors for the filter container
+-
+
+**Thoughts:** Material UI components are not easy to customize. Even though some of them accept CSS classes, those classes don't appear to take effect. I might need to look into other UI systems to use that are more customizable. I wonder if Tailwind CSS would be fun to use for this project. Found Smelte, a UI framework built on top of Svelte and Tailwind CSS using Material specs.
+
+**Link(s) to work & Resources**
+
+- [Svelte Meal Planner Commit](https://github.com/ztyankov/svelte-random-meal-selector/commit/6a32d53cbfc2b824836acae8253bc237a13ce0cd)
+- [Chip Material UI Variables](https://github.com/material-components/material-components-web/blob/v3.1.1/packages/mdc-chips/_variables.scss)
+- [Smelte](https://github.com/matyunya/smelte)
+## Day 6: Wednesday, 01/06/2021 - Skipped :(
+
+**Thoughts:** I just couldn't muster any energy at the end of a long work day to do more coding. I'll be back tomorrow.
 ## Day 5: Tuesday, 01/05/2021
 
 **Time Spent:** 1h45m
@@ -14,7 +34,7 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 - More import/export issues came up with different prop types, so I had to extract each one into its own file
 - I also updated my sample data points to provide more diversity
 
-**Thoughts:** It's getting harder to do an extra hour of coding after the work day.
+**Thoughts:** It's getting harder to do an extra hour of coding after the work day. Reactivity statements can be quite powerful! I like them.
 
 **Link(s) to work & Resources**
 
