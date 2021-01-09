@@ -4,6 +4,24 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 #### ⚡ I will code for at least an hour every day for the next 100 days
 
+## Day 7: Friday, 01/08/2021
+
+**Time Spent:** 2h10m
+
+**Today's Progress**
+
+- Created a generic and encapsulated filter component that can take an arbitrary set of values and notify the parent component of a selection
+- Added more filters to my meal planner app
+- Added media to the meal cards and made them look more refined
+- Figured out how to apply a class to custom components with the `:global()` modifier
+
+**Thoughts:** It was nice to create re-usable, standalone component for the filters. I used some CSS variables to dynamically update the styles and content in the new component. I'm getting better at styling the Material UI components inside Svelte. Today I also learned about image placeholder services like Placeholder.com. And I played around with some grid layouts and configurations.
+
+**Link(s) to work & Resources**
+
+- [Svelte Meal Planner Commit](https://github.com/ztyankov/svelte-random-meal-selector/commit/)
+- [Dynamic CSS Variables](https://svelte.dev/repl/8123d474edb04f198c3b83363716a709?version=3.23.2)
+- [Placeholder.com](https://placeholder.com)
 ## Day 6: Thursday, 01/07/2021
 
 **Time Spent:** 1h15m
@@ -12,7 +30,6 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 - Explore Material UI component customization through built-in mdc variables and inline styles
 - Change design and colors for the filter container
--
 
 **Thoughts:** Material UI components are not easy to customize. Even though some of them accept CSS classes, those classes don't appear to take effect. I might need to look into other UI systems to use that are more customizable. I wonder if Tailwind CSS would be fun to use for this project. Found Smelte, a UI framework built on top of Svelte and Tailwind CSS using Material specs.
 
