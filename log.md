@@ -4,6 +4,24 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 #### ⚡ I will code for at least an hour every day for the next 100 days
 
+## Day 8: Saturday, 01/09/2021
+
+**Time Spent:** 4h
+
+**Today's Progress**
+
+- I tested out the cool new FE build tool called 'Snowpack'.
+- I was able to get the basic setup running with Snowpack, Svelte and Typescript.
+- I couldn't find a way to add PostCSS and the Svelte Material UI library to the mix. It looks like there are some outstanding issues with Snowpack that have to be resolved before I can fully migrate to it.
+
+**Thoughts:** Running Svelte + TS with Snowpack was wicked fast. But I hit many roadblocks on the way to adding PostCSS and Svelte Material to the mix. I found multiple bug reports about some of the issues. I tried configurations from other templates as well like Svelte-Tailwind or Snowpack-PostCSS-Webpack.
+
+**Link(s) to work & Resources**
+
+- [@snowpack/plugin-postcss does not work with imports (postcss-import)](https://github.com/snowpackjs/snowpack/discussions/1693)
+- [Getting svelte-material-ui working with snowpack and sass](https://stackoverflow.com/questions/61970250/getting-svelte-material-ui-working-with-snowpack-and-sass/64175081#64175081)
+- [SMUI How to integrate with snowpack](https://github.com/hperrin/svelte-material-ui/issues/196)
+- [Svelte Tailwind Snowpack](https://github.com/agneym/svelte-tailwind-snowpack)
 ## Day 7: Friday, 01/08/2021
 
 **Time Spent:** 2h10m
