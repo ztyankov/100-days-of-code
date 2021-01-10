@@ -4,6 +4,22 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 #### ⚡ I will code for at least an hour every day for the next 100 days
 
+## Day 9: Sunday, 01/10/2021
+
+**Time Spent:** 3h
+
+**Today's Progress**
+
+- I got the Snowpack + Svelte + TS + TailwindCSS template up and running after updating my Node.js version
+- Started creating a clone of a Material UI card with TailwindCSS styles
+
+**Thoughts:** Since I was able to get this Snowpack setup running, I decided to spend more time learning TailwindCSS. Initially things were a bit confusing, because you need to apply a lot of different classes to create some layouts. The approach seems interesting, so I'll try to replace my Material UI components with TailwindCSS ones.
+
+**Link(s) to work & Resources**
+
+- [Work Commit](https://github.com/ztyankov/svelte-random-meal-selector/commit/49b5f5472d69ac758f9fdab172e6079bb844e57b)
+- [TailwindCSS Grid Documentation](https://tailwindcss.com/docs/grid-template-columns)
+- [TailwindCSS Playground](https://play.tailwindcss.com/)
 ## Day 8: Saturday, 01/09/2021
 
 **Time Spent:** 4h
@@ -37,7 +53,7 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 **Link(s) to work & Resources**
 
-- [Svelte Meal Planner Commit](https://github.com/ztyankov/svelte-random-meal-selector/commit/)
+- [Svelte Meal Planner Commit](https://github.com/ztyankov/svelte-random-meal-selector/commit/8527e003873eed85abe2ee2b18970487878c5c75)
 - [Dynamic CSS Variables](https://svelte.dev/repl/8123d474edb04f198c3b83363716a709?version=3.23.2)
 - [Placeholder.com](https://placeholder.com)
 ## Day 6: Thursday, 01/07/2021
