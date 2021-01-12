@@ -4,6 +4,36 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 #### ⚡ I will code for at least an hour every day for the next 100 days
 
+## Day 11: Tuesday, 01/12/2021
+
+**Time Spent:** Started 23:30
+
+**Today's Progress**
+
+-
+
+**Thoughts:**
+
+**Link(s) to work & Resources**
+
+-
+
+## Day 10: Monday, 01/11/2021
+
+**Time Spent:** 1h
+
+**Today's Progress**
+
+- I watched some videos about Svelte actions and how you can replace regular event listeners with actions for re-usability
+
+**Thoughts:** Actions are pretty cool. I just need to find the right situation to use them.
+
+**Link(s) to work & Resources**
+
+- [Svelte Components Lab](https://sveltelab.app/)
+- [Reusing Event Listeners with Svelte](https://www.youtube.com/watch?v=_IGEl4t1TSM)
+- [Order of Svelte Actions](https://www.youtube.com/watch?v=3R3PMEesQnM&t=4s)
+
 ## Day 9: Sunday, 01/10/2021
 
 **Time Spent:** 3h
