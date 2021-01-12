@@ -6,17 +6,20 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 ## Day 11: Tuesday, 01/12/2021
 
-**Time Spent:** Started 23:30
+**Time Spent:** 1h30m
 
 **Today's Progress**
 
--
+- I spent more time playing with TailwindCSS, reading the documentation and understanding what customizations are available
+- Finished styling a card component that resembles Material UI
+- Updated the TailwindCSS config file with custom colors and fonts
 
-**Thoughts:**
+**Thoughts:** TailwindCSS provides a lot of options and functionality. With some practice, I should be able to get creative. The whole framework is very customizable. I was able to extend and add new colors options.
 
 **Link(s) to work & Resources**
 
--
+- [Work Commit](https://github.com/ztyankov/svelte-random-meal-selector/commit/956fb34b3f5947aa3f13bd75e3f1311bafb1957b)
+- [TailwindCSS Docs](https://tailwindcss.com/docs/functions-and-directives#apply)
 
 ## Day 10: Monday, 01/11/2021
 
