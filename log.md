@@ -4,6 +4,27 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 #### ⚡ I will code for at least an hour every day for the next 100 days
 
+## Day 13: Thursday, 01/14/2021
+
+**Time Spent:** 1h
+
+**Today's Progress**
+
+- I started going through the official Svelte tutorial in order to fill in some gaps in my knowledge.
+
+**Link(s) to work & Resources**
+
+- [Current Exercise from Svelte Tutorial](https://svelte.dev/tutorial/update)
+
+## Day 12: Wednesday, 01/13/2021
+
+**Time Spent:** 1h
+
+**Today's Progress**
+
+- I found some good resources with Svelte tutorials and videos
+- I learned about Actions and how they can be re-used across components
+
 ## Day 11: Tuesday, 01/12/2021
 
 **Time Spent:** 1h30m
