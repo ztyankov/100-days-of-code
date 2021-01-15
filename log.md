@@ -4,6 +4,20 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 #### ⚡ I will code for at least an hour every day for the next 100 days
 
+## Day 14: Friday, 01/15/2021
+
+**Time Spent:** 1h30m
+
+**Today's Progress**
+
+- I learned about Svelte stores (readable/writable) and how easy they are to use.
+- I learned about Svelte animations and how to make a custom one.
+- Created a custom spinning animation by using Svelte's animation API that manipulates the content until the animation has settled.
+
+**Link(s) to work & Resources**
+
+- [Work Commit](https://github.com/ztyankov/svelte-random-meal-selector/commit/fe23d554fdaa725334248b16068d656554caf5ae)
+- [Current Exercise from Svelte Tutorial](https://svelte.dev/tutorial/custom-css-transitions)
 ## Day 13: Thursday, 01/14/2021
 
 **Time Spent:** 1h
