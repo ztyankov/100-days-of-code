@@ -4,6 +4,22 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 #### ⚡ I will code for at least an hour every day for the next 100 days
 
+## Day 15: Saturday, 01/16/2021
+
+**Time Spent:** 1h30m
+
+**Today's Progress**
+
+- Today I looked into the different Router options for Svelte and I decided to use the [Svelte-Spa-Router](https://github.com/ItalyPaleAle/svelte-spa-router)
+- I encountered some incompatibility issues between the new router and snowpack. Posted a troubleshooting comment on Github.
+- I found some good videos from the last [Svelte Summit](https://sveltesummit.com/)
+- Watched a very good video by Rich Harris about Futuristic Web Development. Thumbs up!!
+
+**Link(s) to work & Resources**
+
+- [Alessandro Segala: So you want to pick a router?](https://www.youtube.com/watch?v=EL1qM0cv0eA)
+- [Rich Harris: Futuristic Web Development](https://www.youtube.com/watch?v=qSfdtmcZ4d0)
+
 ## Day 14: Friday, 01/15/2021
 
 **Time Spent:** 1h30m
