@@ -4,6 +4,15 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 #### ⚡ I will code for at least an hour every day for the next 100 days
 
+## Day 16: Sunday, 01/17/2021
+
+**Time Spent:** 45m
+
+**Today's Progress**
+
+- I upgraded snowpack to version 3.0.* and tried to fix the run error with the svelte spa router, but it didn't work.
+
+**Thoughts:** I really want to use Snowpack for development, but there is always some issue that comes up...
 ## Day 15: Saturday, 01/16/2021
 
 **Time Spent:** 1h30m
