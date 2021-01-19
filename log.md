@@ -13,6 +13,7 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 - Fixed the compatibility issue between Snowpack and svelte-spa-router, by removing `extends: "@snowpack/app-scripts-svelte"` from the snowpack.config.js
 - I upgraded the snowpack.config file to match the config changes for 3.0
 - Setup some basic routes for Home and Dashboard and moved some content from App to those new routes
+- *Note:* I also had to rename the routes file for the new router to `routes.config.ts`. Otherwise snowpack kept looking for an index file inside of /routes/
 
 **Thoughts:** It required some tinkering with other snowpack-svelte templates to figure out what the problem was with that svelte-spa-router pkg and the snowpack config. I'm happy that I was able to resolve the problem!
 
