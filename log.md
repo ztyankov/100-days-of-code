@@ -4,6 +4,20 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 #### ⚡ I will code for at least an hour every day for the next 100 days
 
+## Day 17: Monday, 01/18/2021
+
+**Time Spent:** 2h
+
+**Today's Progress**
+
+- Fixed the compatibility issue between Snowpack and svelte-spa-router, by removing `extends: "@snowpack/app-scripts-svelte"` from the snowpack.config.js
+- I upgraded the snowpack.config file to match the config changes for 3.0
+- Setup some basic routes for Home and Dashboard and moved some content from App to those new routes
+
+**Thoughts:** It required some tinkering with other snowpack-svelte templates to figure out what the problem was with that svelte-spa-router pkg and the snowpack config. I'm happy that I was able to resolve the problem!
+
+- [Work Commit](https://github.com/ztyankov/svelte-random-meal-selector/commit/31180f2b68d0388f6e50c78433f6a2cf8561eebe)
+
 ## Day 16: Sunday, 01/17/2021
 
 **Time Spent:** 45m
@@ -41,7 +55,7 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 **Link(s) to work & Resources**
 
-- [Work Commit](https://github.com/ztyankov/svelte-random-meal-selector/commit/fe23d554fdaa725334248b16068d656554caf5ae)
+- [Work Commit](https://github.com/ztyankov/snowpack-svelte-ts-tailwind/commit/fe23d554fdaa725334248b16068d656554caf5ae)
 - [Current Exercise from Svelte Tutorial](https://svelte.dev/tutorial/custom-css-transitions)
 ## Day 13: Thursday, 01/14/2021
 
@@ -78,7 +92,7 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 **Link(s) to work & Resources**
 
-- [Work Commit](https://github.com/ztyankov/svelte-random-meal-selector/commit/956fb34b3f5947aa3f13bd75e3f1311bafb1957b)
+- [Work Commit](https://github.com/ztyankov/snowpack-svelte-ts-tailwind/commit/956fb34b3f5947aa3f13bd75e3f1311bafb1957b)
 - [TailwindCSS Docs](https://tailwindcss.com/docs/functions-and-directives#apply)
 
 ## Day 10: Monday, 01/11/2021
@@ -110,7 +124,7 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 **Link(s) to work & Resources**
 
-- [Work Commit](https://github.com/ztyankov/svelte-random-meal-selector/commit/49b5f5472d69ac758f9fdab172e6079bb844e57b)
+- [Work Commit](https://github.com/ztyankov/snowpack-svelte-ts-tailwind/commit/49b5f5472d69ac758f9fdab172e6079bb844e57b)
 - [TailwindCSS Grid Documentation](https://tailwindcss.com/docs/grid-template-columns)
 - [TailwindCSS Playground](https://play.tailwindcss.com/)
 ## Day 8: Saturday, 01/09/2021
