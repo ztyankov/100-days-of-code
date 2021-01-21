@@ -4,6 +4,27 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 #### ⚡ I will code for at least an hour every day for the next 100 days
 
+## Day 18: Thursday, 01/21/2021
+
+**Time Spent:** 45m
+
+**Today's Progress**
+
+- I learned about Actions and how to pass multiple parameters `use:myAction={{duration, name}}`
+- Got familiar with Component compositions via slots
+    - `<slot><p>Default Content here<p/></slot>`
+    - named slots with `<span slot="address">content here</span>` and `<slot name="address">Unknown Address</slot>`
+    - slots with props
+- Started learning about the Context API for communication between a parent components and its descendants
+- Special elements like `<svelte:self>`, `<svelte:window>`, `<svelte:head>`
+
+**Link(s) to work & Resources**
+
+- [Current Exercise from Svelte Tutorial](https://svelte.dev/tutorial/svelte-options)
+
+## Day 18: Wednesday, 01/20/2021 - Skipped. Too much work.
+## Day 18: Tuesday, 01/19/2021 - Skipped. I was beat.
+
 ## Day 17: Monday, 01/18/2021
 
 **Time Spent:** 2h
