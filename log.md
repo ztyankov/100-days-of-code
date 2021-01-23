@@ -4,6 +4,25 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 #### ⚡ I will code for at least an hour every day for the next 100 days
 
+## Day 19: Saturday, 01/23/2021
+
+**Time Spent:** 3h
+
+**Today's Plan**
+
+- Converted my meal planner project form Rollup with Material UI to Snowpack with TailwindCSS
+- Integrated with the svelte-spa-router and add basic routes from another project
+- Added a prettier configuration for svelte
+- Implemented some basic authentication with guarded routes
+- Created a separate package.json file for the server
+
+**Link(s) to work & Resources**
+
+- [Work Commit](https://github.com/ztyankov/svelte-random-meal-selector/commit/5b70070cf315e585439cfddcf781d84d325b6f64)
+
+## Day 19: Friday, 01/22/2021 - Skipped. Make up on Saturday
+
+
 ## Day 18: Thursday, 01/21/2021
 
 **Time Spent:** 45m
