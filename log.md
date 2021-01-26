@@ -4,6 +4,23 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 #### ⚡ I will code for at least an hour every day for the next 100 days
 
+## Day 20: Monday, 01/25/2021
+
+**Time Spent:** 3h30m
+
+**Today's Plan**
+
+- Finished implementing multiple components with TailwindCSS to build up an updated Card
+- Fixed issues with search and filtering after the Snowpack integration
+- Started styling buttons and input fields
+
+**Thoughts:** Debugging in a Snowpack environment is not great. Going through the transpiled JS code is not very intuitive. I'm learning more about Tailwind and components styling. Things are getting a bit repetitive, so I started pulling some styles into the common styles.css file.
+
+**Link(s) to work & Resources**
+
+- [Work Commit](https://github.com/ztyankov/svelte-random-meal-selector/commit/2eb0cc9020fad8188a6da98d31ada85af2c1970b)
+
+## Day 20: Sunday, 01/24/2021 - Skipped :(
 ## Day 19: Saturday, 01/23/2021
 
 **Time Spent:** 3h
