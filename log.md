@@ -4,6 +4,20 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 #### ⚡ I will code for at least an hour every day for the next 100 days
 
+## Day 21: Friday, 01/29/2021
+
+**Time Spent:** 2h30m
+
+**Today's Plan**
+
+- Completed first half of Svelte Weather app workshop
+
+**Link(s) to work & Resources**
+
+- [Work Commit](https://github.com/ztyankov/svelte-random-meal-selector/commit/3f20aae2cb4483987d8b76b05a579d9fcf218541)
+- [Svelte Workshop - Weather App](https://www.youtube.com/watch?v=35-ZGjqECks)
+
+## Tuesday - Thursday: Skipped. Busy work week.
 ## Day 20: Monday, 01/25/2021
 
 **Time Spent:** 3h30m
