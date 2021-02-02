@@ -4,6 +4,21 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 #### ⚡ I will code for at least an hour every day for the next 100 days
 
+## Day 22: Saturday, 02/01/2021
+
+**Time Spent:** 1h30m
+
+**Today's Plan**
+
+- Improve the weather app functionality and temperature conversions
+- Add temp units to the store and make them available to all components that need them
+- Add some transitions
+
+**Link(s) to work & Resources**
+
+- [Work Commit](https://github.com/ztyankov/svelte-random-meal-selector/commit/380572927e11663eab0cf0f77c91869b36dbda7d)
+- [Svelte Workshop - Weather App](https://www.youtube.com/watch?v=35-ZGjqECks&t=6447)
+
 ## Day 21: Friday, 01/29/2021
 
 **Time Spent:** 2h30m
