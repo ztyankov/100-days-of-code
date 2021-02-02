@@ -4,7 +4,19 @@ The log of my #100DaysOfCode challenge. Started on *[January 1, Friday, 2021]*.
 
 #### ⚡ I will code for at least an hour every day for the next 100 days
 
-## Day 22: Saturday, 02/01/2021
+## Day 23: Tuesday, 02/02/2021
+
+**Time Spent:** 45m
+
+**Today's Plan**
+
+- I started looking at some new technologies and frameworks: Next.js, AWS Amplify, GraphQL.
+- Started working on a Workshop about a multi-user blog.
+
+**Link(s) to work & Resources**
+
+- [Building a Server-less Multi-user Blogging Platform](https://youtu.be/13nYLmjZ0Ys?t=892)
+## Day 22: Monday, 02/01/2021
 
 **Time Spent:** 1h30m
 
